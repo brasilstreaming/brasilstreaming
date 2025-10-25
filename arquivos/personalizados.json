@@ -1,0 +1,14 @@
+{
+  "subcategorias": [
+    {
+      "id": 1,
+      "nome": "Canais 24 Horas",
+      "descricao": "Aproveite uma seleção de canais e conteúdos transmitidos ininterruptamente, 24 horas por dia, 7 dias por semana, com programação variada para todos os gostos.",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logotipo_de_Canal_24_Horas_%282011-2015%29.png/698px-Logotipo_de_Canal_24_Horas_%282011-2015%29.png",
+      "background": "https://www.tvenserio.com/wp-content/uploads/2023/05/imagen_2023-05-31_193348883-1024x576.png",
+      "palavras_chave": ["24H"],
+      "remover_palavras_chave": true,
+      "use_tmdb": true
+    }
+  ]
+}
